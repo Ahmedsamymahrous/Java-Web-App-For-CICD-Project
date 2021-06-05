@@ -52,7 +52,7 @@
                     <h1 class="heading-black text-capitalize">A Simple DevOps CI/CD Project</h1>
                     <p class="lead py-3">DevOps CI/CD pipelines using Git, Jenkins, Ansible, Tomcat webserver, Maven,
                         Docker and Kubernetes on AWS</p>
-                    <a href="https://google.com" class="btn btn-primary d-inline-flex flex-row align-items-center">See
+                    <a href="https://google.com" class="btn btn-danger d-inline-flex flex-row align-items-center">See
                         GitHub Repository <em class="ml-2" data-feather="arrow-right"></em></a>
                     </button>
                 </div>
