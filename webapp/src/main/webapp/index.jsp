@@ -13,7 +13,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
 
     <link rel="stylesheet" href="resources/css/default.css" id="theme-color">
-
+    <style>
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+    </style>
 </head>
 
 <body>
@@ -59,7 +66,8 @@
             </div>
         </div>
     </section>
-<img src="https://raw.githubusercontent.com/Ahmedsamymahrous/CI-CD-Project-with-K8S-on-AWS/main/The-Project-Architecture.jpg" alt="" width="80%">
+<!-- <img class="center" src="https://raw.githubusercontent.com/Ahmedsamymahrous/CI-CD-Project-with-K8S-on-AWS/main/The-Project-Architecture.jpg" alt="" width="80%"> -->
+
     <!--news section-->
     <section class="py-7 bg-dark section-angle top-left bottom-left" id="blog">
         <div class="container">
