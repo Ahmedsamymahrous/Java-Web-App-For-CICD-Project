@@ -59,7 +59,7 @@
             </div>
         </div>
     </section>
-<img src="https://raw.githubusercontent.com/Ahmedsamymahrous/CI-CD-Project-with-K8S-on-AWS/main/The-Project-Architecture.jpg" alt="">
+<img src="https://raw.githubusercontent.com/Ahmedsamymahrous/CI-CD-Project-with-K8S-on-AWS/main/The-Project-Architecture.jpg" alt="" width="80%">
     <!--news section-->
     <section class="py-7 bg-dark section-angle top-left bottom-left" id="blog">
         <div class="container">
